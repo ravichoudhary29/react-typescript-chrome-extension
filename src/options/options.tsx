@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-
-const test = <p>Hello World!</p>
+import './options.css'
+const test = <img src="icon.png" />
 
 const root = document.createElement('div')
 document.body.appendChild(root)
